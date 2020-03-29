@@ -9,7 +9,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/henrylee2cn/goutil"
+	"github.com/weblazy/goutil"
 )
 
 const (
